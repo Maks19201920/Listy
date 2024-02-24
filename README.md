@@ -5,9 +5,9 @@
 <body>
 
 
-<ol type="I">
+<ol type=I>
 <li>Polska</li>
-	<ol type="A">
+	<ol type=A>
   <li>Małopolska</li>
 	<ol type=a>
 		<li>Kraków</li>
@@ -34,7 +34,7 @@
 	<li>Bawaria</li>
 </ol>
   
-</ol>
+
 
 
 
