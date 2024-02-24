@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>Lista HTML</title>
+</head>
+
+<body>
+
+
+<ol type=I>
+<li>Polska</li>
+	<ol type=A>
+  <li>Małopolska</li>
+  </ol>
+	<ol type=a>
+		<li>Kraków</li>
+		<li>Wieliczka</li>
+		<ol type=i>
+			<li>Siercza</li>
+			<li>Mietniów</li>
+			<li>Chorągwica</li>
+		</ol>
+	</ol>
+	<li>Śląsk</li>
+	<ol type=a start=3>
+		<li>Katowice</li>
+		<li>Tychy</li>
+	</ol>
+	<li>Wielkopolska</li>
+	<ol type=a start=5>
+		<li>Poznań</li>
+	</ol>
+  	</ol>
+<li>Niemcy</li>
+<ol type=A>
+	<li>Bawaria</li>
+</ol>
+  
+</ol>
+
+
+
+</body>
+</html>
