@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>Lista HTML</title>
 </head>
 
 <body>
@@ -10,7 +9,6 @@
 <li>Polska</li>
 	<ol type=A>
   <li>Małopolska</li>
-  </ol>
 	<ol type=a>
 		<li>Kraków</li>
 		<li>Wieliczka</li>
@@ -29,7 +27,8 @@
 	<ol type=a start=5>
 		<li>Poznań</li>
 	</ol>
-  	</ol>
+	</ol>
+  	
 <li>Niemcy</li>
 <ol type=A>
 	<li>Bawaria</li>
